@@ -28,6 +28,6 @@ public class Partecipante {
 
     @Override
     public String toString() {
-        return nome + ':' + punteggio;
+        return nome + ':' + punteggio + "punti";
     }
 }

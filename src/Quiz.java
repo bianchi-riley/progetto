@@ -13,7 +13,7 @@ public class Quiz {
     public List<String> risposte = new ArrayList<>();
     public List<String> rispstaCorretta = new ArrayList<>();
 
-    public Quiz(int tipo) {
+    public Quiz(int tipo) { 
         try{
             if(tipo == 1){// Quiz tema videogame
                pathDomande = Paths.get("./src/Domande_Videogame.txt");

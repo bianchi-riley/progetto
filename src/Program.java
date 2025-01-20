@@ -13,6 +13,7 @@ public class Program {
         int contatore = 1;
         int domandeTotali = 50;
         int selezionePartecipante = 0;
+        int vincitore = -1;
         String risposta = "";
         int selezioneDomanda;
         int maxDomande;
@@ -45,7 +46,7 @@ public class Program {
         }
 
         System.out.println("Bene ora possiamo iniziare\n" +
-                "(per rispondere inserire il numero della risposta");
+                "(per rispondere inserire il numero della risposta)");
 
         while (contatore <= maxDomande){
             selezioneDomanda = (int)(Math.random() * domandeTotali);

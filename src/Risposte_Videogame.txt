@@ -38,13 +38,13 @@
 1)Yokai Watch 2)Digimon World 3)Pokémon 4)Monster Hunter
 1)Parigi 2)Firenze 3)Londra 4)Roma
 1)Apex Legends 2)Fortnite 3)PlayerUnknown's Battlegrounds 4)Call of Duty: Warzone
-1)Super Mario Bros. 2) Mario Kart 3) Donkey Kong 4) Luigi's Mansion
-1)Inferno 2) Dust II 3) Mirage 4) Cache
-1)Donkey Kong 2) Zelda II 3) Super Mario Bros. 4) Final Fantasy
-1)Splinter Cell 2) Metal Gear 3) Hitman 4) Deus Ex
-1)Punti di spawn 2) Punti di salvataggio 3) Zone di boss 4) Luoghi di potenziamento
-1)Distruggere GLaDOS 2) Fuggire dal laboratorio 3) Salvare altri soggetti di test 4) Sbloccare nuove aree
-1)MA5B Assault Rifle 2) Plasma Rifle 3) Needler 4) Magnum
-1)Infernal Combat 2) Green and Pissed 3) Death of Mars 4) Hellspawn
-1)
-1)
+1)Super Mario Bros. 2)Mario Kart 3)Donkey Kong 4)Luigi's Mansion
+1)Inferno 2)Dust II 3)Mirage 4)Cache
+1)Donkey Kong 2)Zelda II 3)Super Mario Bros. 4)Final Fantasy
+1)Splinter Cell 2)Metal Gear 3)Hitman 4)Deus Ex
+1)Punti di spawn 2)Punti di salvataggio 3) Zone di boss 4)Luoghi di potenziamento
+1)Distruggere GLADOS 2)Fuggire dal laboratorio 3)Salvare altri soggetti di test 4)Sbloccare nuove aree
+1)MA5B Assault Rifle 2)Plasma Rifle 3)Needler 4)Magnum
+1)Infernal Combat 2)Green and Pissed 3)Death of Mars 4)Hellspawn
+1)Anello del Serpente 2)Chiave Master 3)Pietra del Cuore 4)Sigillo del Drago
+1)David Hayter 2)Kazuhira Miller 3)John 4)Ocelot

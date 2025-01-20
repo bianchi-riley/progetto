@@ -1,0 +1,27 @@
+@startuml
+skinparam classAttributeIconSize 0
+class Quiz{
+-pathDomande: Path
+-pathRisposte: Path
+-pathRispostaCorretta: Path
++domande: List<String>
++Risposte: List<String>
++RispostaCorretta: List<String>
++Quiz(int)
+}
+
+class Partecipante{
+-nome: String
+-punteggio: int
++Partecipante(String)
++getNome()
++getPunteggio()
++sePunteggio(int)
++addPunti()
++toString()
+}
+
+class Program{
+}
+
+@enduml
